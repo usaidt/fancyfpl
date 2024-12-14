@@ -1,2 +1,2 @@
 # fancyfpl
-Premier league pro website for statistics and ratings
+Fantasy premier league pro website for statistics and info
